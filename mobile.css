@@ -1,0 +1,14 @@
+.btn{
+ position: absolute;
+ top: 390px;
+ left: 50%;
+ transform: translate(-50%, -50%);
+ background-color: #8eac7e;
+ color: #160315;
+ font-family: 'Questrial', sans-serif;
+ font-size: 16px;
+ padding: 12px 24px;
+ border: none;
+ cursor: pointer;
+ border-radius: 5px;
+}
